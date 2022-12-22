@@ -1,2 +1,1 @@
-# Chirp
-Chirp a Twitter client for the iPhone
+# Chirp - a Twitter client for iPhone
